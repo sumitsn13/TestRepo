@@ -6,4 +6,3 @@ new content
 
 
 after rate
-
